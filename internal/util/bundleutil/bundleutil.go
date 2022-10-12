@@ -137,7 +137,7 @@ func (meta *BundleMetaData) GenerateMetadata() error {
 			return err
 		}
 	}
-	log.Infof("Bundle metadata generated suceessfully")
+	log.Infof("Bundle metadata generated successfully")
 	return nil
 }
 
